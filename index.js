@@ -7,6 +7,10 @@ app.get('/', (req, res) => {
     {
       name: 'sunny',
       occupation: 'developer'
+    },
+    {
+      name: 'bob',
+      occupation: 'the builder'
     }
   ])
 })
